@@ -35,6 +35,18 @@
   	         <span id="header-text">Expedition </span>
   	         <span id="header-text">Epsilon</span>
   	      </header>
+  	      
+  	      <nav id="nav-strip">
+  	      <% link_to '/index.html', style:"text-decoration: none; display:inline-block;" do %>
+  	         <span class="navbtn">About</span>
+  	      <% end %>
+  	      <% link_to '/purchase.html', style:"text-decoration: none; display:inline-block;" do %>
+  	         <span class="navbtn">Purchase</span>
+  	      <% end %>
+  	      <% link_to '/blog.html', style:"text-decoration: none; display:inline-block;" do %>
+  	         <span class="navbtn">Devblog</span>
+  	      <% end %>
+  	      </nav>
   
     <%= yield %>
   </body>

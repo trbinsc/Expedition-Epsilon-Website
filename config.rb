@@ -71,5 +71,11 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
   
-  activate :livereload
+  end
+
+activate :livereload
+
+activate :blog do |blog|
+    # set options on blog
 end
+
