@@ -37,15 +37,9 @@
   	      </header>
   	      
   	      <nav id="nav-strip">
-  	      <% link_to '/index.html', style:"text-decoration: none; display:inline-block;" do %>
-  	         <span class="navbtn">About</span>
-  	      <% end %>
-  	      <% link_to '/purchase.html', style:"text-decoration: none; display:inline-block;" do %>
-  	         <span class="navbtn">Purchase</span>
-  	      <% end %>
-  	      <% link_to '/blog.html', style:"text-decoration: none; display:inline-block;" do %>
-  	         <span class="navbtn">Devblog</span>
-  	      <% end %>
+  	         <%= link_to 'About', '/', :class => "navbtn" %>
+  	         <%= link_to 'Purchase', '/purchase.html', :class => "navbtn" %>
+  	         <%= link_to 'Blog', '/blog/', :class => "navbtn" %>
   	      </nav>
   
     <%= yield %>
