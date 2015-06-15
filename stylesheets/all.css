@@ -52,17 +52,21 @@ header {
 
 #nav-strip
 {
-	padding: 10px 0px 10px 0px;
+	/* padding: 10px 0px 10px 0px; */
+	display: flex;
+	flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .navbtn {
   font-family: EurostileBold, Arial, sans-serif;
   text-transform: uppercase;
   color: #ffffff;
-  font-size: 35px;
+  font-size: 1.5em;
   background: #cc6600;
   padding: 10px 20px 10px 20px;
-  margin: 10px 0px 10px 0px;
+  /* margin: 10px 0px 10px 0px; */
   text-decoration: none;
 }
 
