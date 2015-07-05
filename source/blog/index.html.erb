@@ -1,9 +1,29 @@
 ---
-title: Expedition Epsilon Devblog
+pageable: true
 ---
 
-<div style="padding: 20px">
-<h2>Developer Blog<br></h2>
-<p>The developer blog isn't quite ready yet. Setting it up is pretty complicated, but at
-least it'll make a good first blog post when I finally figure it out.</p>
-<div>
+<% page_articles.each_with_index do |article, i| %>
+  <div>
+  <h2><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></h2>
+  <%= article.summary(1000) %>
+  <%= link_to 'Read more…', article %>
+  </div>
+<% end %>
+
+<div style="  display: flex;
+  justify-content: center;">
+
+<% if paginate && num_pages > 1 %>
+  <% if prev_page %>
+    <p style="  padding: 10px;
+  margin: 0px;"><%= link_to 'Newer', prev_page, :class => "navbtn" %></p>
+  <% end %>
+<% end %>
+
+<% if paginate %>
+  <% if next_page %>
+    <p style="  padding: 10px;
+  margin: 0px;"><%= link_to 'Older', next_page, :class => "navbtn" %></p>
+  <% end %>
+<% end %>
+</div>
