@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Expedition Epsilon</title>
+
+    <link href="/stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/all.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/all.js" type="text/javascript"></script>
+    
+    
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64035457-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+ 
+  <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog//feed.xml" />
+  </head>
+
+  <body class="blog blog_feed">
+  	
+
+  	      <header>
+     	    <img alt="The game's logo" height="100" width="100" id="header-image" src="/Logo.png" />
+  	         
+  	         <span id="header-text">Expedition </span>
+  	         <span id="header-text">Epsilon</span>
+  	      </header>
+  	      
+  	      <nav id="nav-strip">
+  	         <a class="navbtn" href="/">About</a>
+  	         <a class="navbtn" href="/purchase.html">Purchase</a>
+  	         <a class="navbtn" href="/blog/">Blog</a>
+  	      </nav>
+     <div style="  margin: 30px;
+  padding: 30px;
+  max-width: 750px;
+  margin-left: 250px;
+  margin-right: auto;
+  background-color: gray;">
+        <!doctype html>
+<html>
+  <body>
+    
+    <div id="main" role="main" style="  
+    display: flex;
+  flex-direction: column;
+  justify-content: center;">
+      <?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog/</id>
+  <link href="http://blog.url.com/blog/"/>
+  <link href="http://blog.url.com/blog/feed.xml" rel="self"/>
+  <updated>2012-01-07T19:00:00-05:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-07T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:10-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Eos quia dolorum amet. sapiente perferendis accusantium harum quae atque laudantium necessitatibus omnis ut eum. ut saepe veniam error molestiae voluptates eum. ut id mollitia aut nihil corrupti. quas pariatur ut voluptatem sunt autem sunt rem deleniti et animi
+Quibusdam temporibus quis illo pariatur sunt quod autem voluptas est dolor reprehenderit maxime. et quasi voluptatem qui maiores temporibus nam quam excepturi error suscipit aut voluptatum cumque. eius culpa odio recusandae expedita reprehenderit amet sequi facilis est saepe consequatur libero sit minus. et sequi quo praesentium sed et enim&lt;/p&gt;
+
+&lt;p&gt;Eaque eaque qui molestiae magnam vel aut voluptatem. magni itaque quasi veniam aut minus. aperiam sunt nulla voluptatem dolores et natus. enim nemo eos consequuntur et ratione labore hic perferendis cum veritatis alias id&lt;/p&gt;
+
+&lt;p&gt;In possimus inventore numquam esse sint similique ut consectetur amet doloremque sed vel accusamus corporis. dolorem ipsum consequatur iste est et quas quis quod qui autem harum. sapiente consequuntur ea sint et veritatis totam praesentium neque iure facere adipisci&lt;/p&gt;
+
+&lt;p&gt;Omnis eum ipsum est eos voluptatem quis veniam commodi aut ut numquam. odit necessitatibus ut quia vitae sint accusamus accusamus sed placeat aut molestiae dolores autem saepe. voluptatem mollitia ex laudantium est voluptas adipisci temporibus maxime aut similique&lt;/p&gt;
+
+&lt;p&gt;Voluptatem excepturi nihil quaerat molestias reiciendis recusandae laboriosam debitis voluptatem occaecati. architecto eius omnis modi reiciendis omnis provident est corporis voluptas voluptatum optio ut eaque omnis. repellendus ex iure consectetur excepturi mollitia iste consequatur nihil et dolor exercitationem aliquam ea. provident sed assumenda ut impedit et repudiandae placeat aut in cum quam amet&lt;/p&gt;
+
+&lt;p&gt;Omnis rerum ratione sunt quam dolore doloremque dolores debitis deserunt dolores tempora placeat beatae ut. necessitatibus quam maxime neque. occaecati consectetur autem id ut illo incidunt sint fugit sit&lt;/p&gt;
+
+&lt;p&gt;Fuga quidem vero corporis culpa iste saepe doloribus impedit atque odio magnam. dignissimos corporis et non et. qui ex harum dolor ducimus magnam assumenda officia voluptatem eos omnis&lt;/p&gt;
+
+&lt;p&gt;Laborum et ipsam voluptatem. sit ab ex consectetur perspiciatis dolorem molestiae rerum qui omnis repellendus. officia sit id omnis cumque et rerum excepturi soluta sed quia error voluptatem. est omnis in dolore modi quas voluptas rem iste voluptas. non aut consequatur sunt tempora reprehenderit est fugit eaque ut itaque voluptatibus facilis numquam&lt;/p&gt;
+
+&lt;p&gt;Officia sint quia veritatis. est dolores eligendi dolorem nisi. sapiente modi deserunt ut totam corrupti vel alias debitis voluptas quibusdam. nostrum occaecati dolores ex reiciendis minus eum. aut sunt sit beatae suscipit. excepturi et eius quia. harum illo illo incidunt impedit non occaecati ut&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-06T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:13-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Explicabo voluptatem quis aut. ipsa ea molestias voluptatem esse non voluptatem corrupti nemo in quia. architecto at quis aut expedita dicta consequatur sit sunt tempore. sequi quia iste voluptas sit sit ut quos laborum. quam fugiat rem animi magni autem reprehenderit est numquam maiores iste dolorem. eos temporibus vel et illo. doloremque alias sit nisi ut sit
+Et et rerum sapiente ab aut nemo dolore magni vel incidunt ut voluptates quasi. quis voluptas vel soluta vel ut velit nesciunt sit ad. quod rerum ab ut aliquid consequuntur quis distinctio non itaque odio. vel dignissimos magni dolor quis magni sequi consequuntur harum sed nam cupiditate&lt;/p&gt;
+
+&lt;p&gt;Quia fuga est quaerat quos architecto dolorum quo. dolor adipisci nisi deleniti hic. aliquam nemo enim dolore quam culpa laudantium aliquam ratione cumque quo neque aspernatur ab odio. consectetur cum et officiis consequatur. quisquam impedit eveniet laboriosam labore suscipit minus ex labore est quo et. velit et fuga omnis dolorum autem asperiores tenetur rerum voluptatem laborum consequatur ratione ducimus sunt&lt;/p&gt;
+
+&lt;p&gt;Ratione est eum repellendus eos minus itaque aut id aut sunt velit adipisci omnis. iure reprehenderit repellat amet consequatur. aut dolorem error asperiores adipisci debitis molestiae commodi labore occaecati omnis et impedit. minus et mollitia impedit. explicabo at et et quis dolores distinctio similique non deleniti sed deserunt. eaque praesentium molestiae est perspiciatis fugiat et. consequatur nisi similique omnis accusamus id eum id quia accusantium ut error autem voluptas ut&lt;/p&gt;
+
+&lt;p&gt;Veritatis dolorum omnis sed cupiditate eum fugiat repudiandae non veritatis ullam. omnis occaecati in voluptatem veniam nihil. ullam blanditiis quae reprehenderit non. culpa excepturi earum nisi delectus nemo. magni aut pariatur ab praesentium non aperiam vel veritatis molestiae reiciendis accusantium. exercitationem consequatur numquam rerum accusantium deleniti facere quae doloremque dolor cum qui. veniam distinctio voluptas expedita&lt;/p&gt;
+
+&lt;p&gt;Facilis voluptatem molestiae voluptatum molestiae excepturi beatae perspiciatis et. sit delectus ea et aut aliquid quas incidunt recusandae deserunt laboriosam voluptatem commodi quidem officiis. et nulla ad ut delectus deserunt perferendis cumque. facilis cum rem et enim alias assumenda ea provident maiores reiciendis illum expedita dolorum. earum quidem corporis nesciunt ut est cupiditate omnis fugit minima vero aut et iure. iste aut distinctio et voluptas a delectus et. nobis voluptatem provident architecto totam dolores et asperiores illo nulla iste ut voluptate&lt;/p&gt;
+
+&lt;p&gt;Illo quos sequi consequuntur ea amet repudiandae rem. minus est nesciunt soluta doloribus quidem. et et doloremque labore nisi qui temporibus quidem ratione quis. consequatur perspiciatis sint nihil saepe quisquam consequatur unde omnis ut reiciendis quos. perspiciatis sit quaerat soluta&lt;/p&gt;
+
+&lt;p&gt;Porro natus quos non quis molestiae sint earum nihil et animi in maiores quos. et consequuntur voluptates quae laboriosam dolorem cupiditate vel. est nobis quo officia quaerat architecto est illo consequatur magnam et animi. nostrum adipisci ut sunt ratione similique corrupti autem dolorem eaque eaque minus et voluptatem ex. doloribus harum quia dolor. voluptates nostrum quae inventore non dolorem nisi et blanditiis cum voluptatem. officiis et voluptatem tempore delectus eius quae placeat quas aut iste animi iure voluptatem consectetur&lt;/p&gt;
+
+&lt;p&gt;Vitae tempora voluptatem consequatur officiis. est optio eos culpa incidunt quis consequatur a dolore beatae totam. ducimus numquam aut quia sint corporis aspernatur et qui excepturi aliquam rerum sapiente recusandae aut. quidem eaque deserunt sapiente fugiat earum rem est cumque explicabo modi repudiandae non porro quo. doloribus reiciendis libero minus officiis. fuga dolores porro laudantium rerum consequatur voluptatem sit&lt;/p&gt;
+
+&lt;p&gt;Voluptatibus velit aliquam modi voluptatem facere nostrum unde architecto ipsum et illo quia. molestiae error officiis vitae unde et ipsam et cumque sint sunt quis incidunt. fuga ipsum quod non dicta asperiores. odio dolores cumque voluptas sequi quam voluptatem aut eligendi quidem autem aliquam repellat ut non. ducimus est ipsa delectus ea sed dolor autem error voluptatem eos provident maiores. et aliquam ut et eos quibusdam qui consequatur veniam&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-05T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:22-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Error molestiae est consequatur dolorem voluptatem voluptates. tempora fugiat aut voluptatem autem rem nihil ut tenetur inventore ea dolor iusto. repellat voluptatibus laboriosam enim voluptas voluptas tempora corporis iusto aut inventore nemo saepe. sapiente aut iste iusto dolore quos nostrum fugiat aut ut officia repudiandae. enim excepturi quos debitis quos et voluptas molestiae fugit tempore ipsam non qui numquam. fugiat autem veritatis velit praesentium praesentium soluta labore. debitis voluptatibus nemo ut unde dolorum quas illo nostrum et nihil
+Qui quod voluptatibus assumenda dolor doloremque itaque rem nam eum ab harum illum. dolor doloremque est labore aperiam quis repudiandae totam quos maxime. in iste quia illo nobis iure commodi dolorem pariatur optio delectus quo rerum. eius saepe numquam consequuntur consequatur dolores quis quo optio et accusantium quo ea aut. neque autem voluptatem voluptas minus et nihil&lt;/p&gt;
+
+&lt;p&gt;Minima ut nihil aut nesciunt enim tempora. libero fuga esse id quidem in perspiciatis ratione vero distinctio repudiandae dolores. veniam quam facilis est vero exercitationem maiores eum eum voluptatum corrupti est rem quod. provident accusantium ut modi harum sint aut voluptate quo quia ipsa ipsam. et voluptatum occaecati odio omnis temporibus voluptas voluptates repudiandae in maxime dolore. rem repellendus et commodi doloribus aut ut dignissimos molestiae repellendus quia&lt;/p&gt;
+
+&lt;p&gt;Repellendus officia officiis quod aspernatur sit in aut vero molestiae sed cum. aliquid velit est facilis repellendus. et quas veniam sapiente illum&lt;/p&gt;
+
+&lt;p&gt;Iusto dolores et assumenda ea distinctio eos quos pariatur corrupti molestiae corporis non architecto. quisquam ipsa consequatur reiciendis. veniam ut beatae corporis. amet et ullam sequi ut facilis voluptate omnis&lt;/p&gt;
+
+&lt;p&gt;Debitis ipsa eaque quas ipsum temporibus iure et vel necessitatibus aut ut neque praesentium. reprehenderit odio atque nihil debitis veniam. porro facere eos incidunt possimus officia assumenda qui rerum labore quibusdam et. debitis est voluptatem consequatur&lt;/p&gt;
+
+&lt;p&gt;Veniam labore velit qui accusamus quisquam sapiente soluta vel nisi hic ut a voluptas. enim cupiditate quia possimus maxime minima est laborum quo. odio quod et temporibus. ut debitis et corporis et excepturi officia eos quia minus ipsam. tenetur veniam necessitatibus rerum voluptatem dolor sit. beatae magnam est soluta. quo quis quibusdam et in totam aut quia aut est dolor voluptate sint&lt;/p&gt;
+
+&lt;p&gt;In et dolorum quo. laboriosam nihil repellendus quam. velit quo quod ut nihil voluptatem quis. et dolorem eos asperiores deleniti. eum totam ipsum labore laudantium consequatur rem voluptatem provident&lt;/p&gt;
+
+&lt;p&gt;Voluptas illum voluptas quaerat culpa enim esse fugiat ipsum quia possimus tempora omnis illo. cum suscipit aut deserunt aliquam ducimus exercitationem vitae unde voluptatem libero aut. placeat magni laboriosam placeat saepe dolores non iste non. velit et eveniet explicabo at laboriosam beatae quaerat facilis dolores illo provident&lt;/p&gt;
+
+&lt;p&gt;Ratione asperiores quis quo aut commodi aut maxime in nobis inventore. rerum praesentium et nemo reprehenderit est consequatur. aut consequuntur odio facilis dignissimos eius. voluptatem quas nihil ea aut id et dolores quia repellat asperiores corrupti ipsum ut. facere voluptate ut ullam perspiciatis velit exercitationem dolor voluptatem eum aperiam omnis voluptatem. totam in sed quia eaque. et quisquam sint architecto non ad&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-04T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:26-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Hic dolores fuga quos et molestias libero recusandae et temporibus vel ullam impedit. explicabo ducimus voluptas repudiandae officiis deserunt quo. quas libero rem dolorem voluptate enim non rem. ab et dolor et rem doloremque. quis eius voluptatem quisquam non et quo voluptatem assumenda occaecati deserunt minima
+Corporis quia quis cum asperiores omnis. ducimus quis odit officia. neque quisquam accusantium est eaque inventore dolorem excepturi laboriosam quidem excepturi quasi vel reprehenderit recusandae&lt;/p&gt;
+
+&lt;p&gt;Quod est eum ex. velit et facilis ex dicta quis rem in aut. architecto ipsum distinctio non alias veniam. accusamus illo id ea enim explicabo enim enim saepe. dolorem modi harum qui eum nobis libero sit. ipsa nesciunt fugiat perspiciatis consequuntur. voluptatem et est qui eligendi laborum qui et dolores&lt;/p&gt;
+
+&lt;p&gt;Ratione corrupti ab voluptatum et vel tempora. quae blanditiis soluta quia tenetur. molestiae quaerat porro omnis repellendus saepe ex. nulla ut unde pariatur voluptatem culpa sequi aperiam&lt;/p&gt;
+
+&lt;p&gt;Pariatur reprehenderit omnis nostrum aliquam voluptas nihil quo. labore provident dignissimos repellendus tempore nihil illum mollitia in quibusdam corporis laudantium. omnis dolor inventore corporis labore sit et laudantium sit nam id quasi fuga in. et eaque voluptatibus totam molestiae consectetur officia et id. ut nostrum non provident quidem at voluptatem quidem dolor unde ut&lt;/p&gt;
+
+&lt;p&gt;Ex ea pariatur voluptas ut beatae accusamus ut. voluptas voluptas alias quis pariatur illum. modi et ipsum sit qui ut enim amet odio nobis est ratione sint. dignissimos in debitis velit dolorum rerum illo debitis dolores et qui laudantium totam. cupiditate repellat aut quibusdam adipisci. perspiciatis iste accusamus aut ea eum dolores libero soluta. at sint ratione non voluptatem earum excepturi saepe&lt;/p&gt;
+
+&lt;p&gt;Voluptas magnam autem qui hic eligendi praesentium recusandae unde dolore qui nihil harum nobis porro. pariatur sunt deleniti et qui sed et nisi quam repudiandae consectetur explicabo eos veniam. ab tenetur minus ea sequi temporibus dolorum. architecto veritatis qui temporibus ut molestias corporis amet quia debitis consequuntur. assumenda et odit rem fugiat accusantium culpa. dolor incidunt quasi vero aperiam qui&lt;/p&gt;
+
+&lt;p&gt;Nemo sapiente eum qui perferendis saepe aspernatur voluptatem qui nihil eum quasi perspiciatis accusamus consequatur. pariatur similique nihil odit sed ex maxime. et ut facilis corrupti quasi voluptas libero pariatur aut animi ullam. deleniti nam doloribus et consequuntur cumque maiores voluptatem. minima cumque aut beatae tenetur occaecati vero nam id magni autem eum suscipit. non est qui eveniet unde vel laboriosam quia voluptas&lt;/p&gt;
+
+&lt;p&gt;Sit illo et corrupti velit quia quae ipsam in sit assumenda unde amet voluptas. et possimus ut sit sed repellendus et ut aut velit incidunt quo omnis. dicta nesciunt deleniti ipsa alias qui sapiente nisi id aut dolorum temporibus non sed sint. animi ea dolores quo quia expedita adipisci nisi eos. numquam sed molestiae vitae. consequatur est vel et ut maiores qui inventore velit&lt;/p&gt;
+
+&lt;p&gt;Et fuga est voluptatem enim est. magnam ex beatae officiis aut. qui nulla sed repudiandae accusantium enim et eveniet architecto maxime omnis soluta vero culpa animi. ut harum non ut aut&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-03T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:29-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Aliquam aut ipsum natus. esse accusamus temporibus delectus doloremque corporis quo sed minus eius. at dignissimos magni aliquam est dolores. vel necessitatibus in est facere et quisquam et sint veritatis. qui aliquid ipsam in ex dignissimos cum necessitatibus quia architecto deleniti repellat. eveniet libero ipsam reiciendis deserunt corrupti enim rerum
+Voluptatem suscipit velit maxime et doloremque ut enim quis ad. molestias rerum sint officiis quam enim. quas alias unde aut in nesciunt autem cum sed numquam. iusto id laborum sunt deserunt eum libero. rerum hic neque et eum ipsa. et qui autem molestiae dolores magni et&lt;/p&gt;
+
+&lt;p&gt;Laudantium amet labore qui reiciendis sit molestias praesentium saepe recusandae est ut. maiores et in atque commodi quia facilis repellendus. illum totam quibusdam harum. sit molestiae sint architecto omnis. non et est velit suscipit quo&lt;/p&gt;
+
+&lt;p&gt;Consequuntur rerum aut ex dolorem magnam quidem quod consequuntur ex esse expedita aut sint autem. id at quasi cupiditate hic vero cum nulla odio laudantium consequatur modi laboriosam. ut voluptatem itaque id similique sed aut repellendus cum et. molestiae ut quidem eveniet exercitationem non nam. explicabo voluptas vel qui nihil hic accusamus architecto voluptatem fugiat consequatur laudantium consequatur tempora&lt;/p&gt;
+
+&lt;p&gt;Qui dolorum debitis dolor occaecati doloribus dignissimos et accusamus nihil. vel harum sed ut doloribus quia aperiam in et. eveniet rerum velit velit aut sunt sint magni ducimus sit repudiandae enim alias. nihil laboriosam velit aut provident culpa qui natus ut aperiam. iste et sunt porro dicta sint incidunt nesciunt quis. et cupiditate velit quo aliquid cum unde repellendus quia laborum&lt;/p&gt;
+
+&lt;p&gt;Sed laborum tenetur repudiandae minus. nesciunt temporibus amet autem nemo qui. dolor nihil eos quisquam ea nisi sunt nobis. deserunt sint expedita qui iusto sed&lt;/p&gt;
+
+&lt;p&gt;Illum natus quaerat molestias eos illo. non quo quasi sed soluta explicabo laborum aut. alias porro repellat distinctio tenetur est modi. nisi asperiores et et laudantium error repellat sit odio placeat excepturi labore optio. minima perspiciatis et est sequi ipsa officiis et ea eum voluptates vel est perspiciatis non. quidem dolores corrupti quam voluptatem esse eveniet&lt;/p&gt;
+
+&lt;p&gt;Ducimus dolorem sint eos dolorem amet ea iusto. iure eius labore quas quos quaerat et soluta repellat neque et autem amet natus eaque. aspernatur laboriosam repellat repellat perferendis totam. ea qui voluptatibus minus ratione nisi dolores eos non sed rem consequatur eos repellat&lt;/p&gt;
+
+&lt;p&gt;Quia aut sit ipsa temporibus. impedit earum vel et sed. unde atque molestiae qui mollitia sapiente aliquid illum ratione aspernatur nostrum minima dolor esse qui. natus numquam ut voluptate ducimus non. quisquam in ex velit voluptatem voluptates dolores&lt;/p&gt;
+
+&lt;p&gt;Amet omnis non quisquam. minima repellat aut quod enim consequatur aut architecto. veniam asperiores ut explicabo non expedita&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/example-article.html"/>
+    <id>http://blog.url.com/blog/2012/01/example-article.html</id>
+    <published>2012-01-02T19:00:00-05:00</published>
+    <updated>2015-07-04T22:07:32-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Incidunt aut eligendi repellat esse aut ea totam voluptatum provident incidunt aut animi reiciendis quia. quas rerum ad mollitia molestiae. porro sunt enim et dolor quisquam expedita non iste dolore dolore praesentium. quo distinctio earum minima unde. cupiditate et quae non id in impedit placeat. reiciendis similique voluptatem rerum quos suscipit nihil consequatur possimus sequi in. in enim deserunt perferendis corporis tempore
+Ut nesciunt iste quod aut et labore ullam harum minus vel est. praesentium enim exercitationem vel. adipisci doloribus in velit et et aspernatur qui qui ratione ab in eos ut&lt;/p&gt;
+
+&lt;p&gt;Cupiditate est consequatur inventore accusamus. animi maiores qui quos aspernatur aut quae enim quis. commodi sint beatae et animi repudiandae facilis similique consequuntur veritatis possimus modi. et sed voluptatem nisi&lt;/p&gt;
+
+&lt;p&gt;Provident sequi ipsam aut repellendus ea odio. aut nihil ducimus facere harum. fuga est et vel iure velit maiores et dolores. voluptates est praesentium excepturi sed dicta tempore illum ipsum commodi delectus dolores eligendi. dignissimos non totam quisquam et veniam numquam error est accusamus facilis possimus&lt;/p&gt;
+
+&lt;p&gt;Similique molestiae odit illum vel est ratione necessitatibus atque natus soluta non enim voluptas sit. voluptas aspernatur voluptatum nulla et quos perspiciatis aut. reiciendis minus doloremque ut beatae labore placeat ea ut rerum laborum ea. iure et corporis nihil est facere non voluptatibus nisi ad maxime est. impedit dolor voluptas facilis voluptas. animi officia et sunt&lt;/p&gt;
+
+&lt;p&gt;Fugiat ipsam adipisci molestias. inventore dolores sapiente est sint doloremque. omnis dolorem esse exercitationem aliquam exercitationem velit tempora laboriosam&lt;/p&gt;
+
+&lt;p&gt;Incidunt voluptatem molestiae ab nisi soluta nam eum assumenda architecto voluptatem. nemo debitis sed in fugit rerum aut. tenetur voluptatem omnis corrupti quis dolor facere. reprehenderit ullam fuga illo repellat similique sit qui iste officia cumque est dicta. assumenda commodi sed voluptas nihil laudantium quam cum fugiat minus reiciendis quo aut qui voluptas. iste ratione itaque quasi et ab illo est natus aut non similique&lt;/p&gt;
+
+&lt;p&gt;Velit est nostrum nam ut ab ut et ut et qui. eius nihil in aut aut. ab dolorem consequatur est officia. et sed quos voluptatem odio quia sed. modi in fugit odit tempore saepe enim molestiae reiciendis accusamus perferendis occaecati rerum aut&lt;/p&gt;
+
+&lt;p&gt;Expedita praesentium et sed quia facilis natus optio natus ad et ut voluptatibus ex consequatur. non voluptas repellat quidem eligendi quibusdam nisi omnis earum incidunt a ipsam aut aspernatur. laboriosam iure sit sapiente&lt;/p&gt;
+
+&lt;p&gt;Officia quaerat dolor tenetur sed inventore enim enim unde tenetur placeat. corporis architecto enim at. officia dicta autem possimus sint voluptatem minima nisi veritatis. commodi est reiciendis odio exercitationem facilis earum. quibusdam iusto delectus voluptatem incidunt possimus architecto voluptatum aut explicabo repudiandae qui nam voluptatem. est dolore consequatur aut suscipit&lt;/p&gt;
+</content>
+  </entry>
+</feed>
+
+    </div>
+    
+    <aside style="  
+  position: absolute;
+  left: 14px;
+  top: 300px;
+  background-color: gray;
+  padding: 10px;">
+      <h2>Recent Articles</h2>
+      <ol>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  8</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  7</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  6</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  5</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  4</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  3</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  2</span></li>
+          <li><a href="/blog/2012/01/example-article.html">Example Article</a> <span>Jan  1</span></li>
+      </ol>
+
+      <h2>Tags</h2>
+      <ol>
+          <li><a href="/blog/tags/example.html">example (8)</a></li>
+      </ol>
+
+      <h2>By Year</h2>
+      <ol>
+          <li><a href="/blog/2012.html">2012 (8)</a></li>
+      </ol>
+    </aside>
+  </body>
+</html>
+
+     </div>
+  </body>
+</html>
+
+
+<!-- -->
